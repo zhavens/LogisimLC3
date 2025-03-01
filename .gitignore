@@ -1,0 +1,10 @@
+# Dependency directories
+node_modules/
+# All transpiled JS
+**.js*
+# Only save source and binaries for use in the sim
+**.obj
+
+# Autosave files for formats in the repo
+*.autosave
+*~*
